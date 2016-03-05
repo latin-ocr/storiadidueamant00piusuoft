@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./storiadidueamant00piusuoft_0167.png"; bbox 0 0 1890 3081; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 567 828 1268 971">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 567 828 1268 971">
+     <span class='ocr_line' id='line_1_1' title="bbox 567 828 1268 971; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 567 828 1268 971; x_wconf 45' lang='lat' dir='ltr'><strong>STQRHQ‘</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 457 1052 1263 1408">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 457 1052 1263 1408">
+     <span class='ocr_line' id='line_1_2' title="bbox 851 1052 913 1085; baseline 0.016 -1"><span class='ocrx_word' id='word_1_2' title='bbox 851 1052 882 1084; x_wconf 92' lang='lat' dir='ltr'><strong>D</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 898 1054 913 1085; x_wconf 93' lang='lat'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 457 1371 1263 1408; baseline -0.004 -1"><span class='ocrx_word' id='word_1_4' title='bbox 457 1373 700 1408; x_wconf 81' lang='lat' dir='ltr'>COMPOSTA</span> <span class='ocrx_word' id='word_1_5' title='bbox 716 1373 862 1407; x_wconf 82' lang='lat' dir='ltr'><strong>DALLA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 878 1372 1037 1406; x_wconf 89' lang='lat' dir='ltr'>FELICE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1054 1371 1263 1405; x_wconf 82' lang='lat' dir='ltr'><strong>MEMORIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 235 1567 1382 1638">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 235 1567 1382 1638">
+     <span class='ocr_line' id='line_1_4' title="bbox 235 1567 1382 1638; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 235 1569 526 1638; x_wconf 79' lang='lat' dir='ltr'>PAPA</span> <span class='ocrx_word' id='word_1_9' title='bbox 586 1570 774 1636; x_wconf 90' lang='lat' dir='ltr'><strong>PlO</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 839 1567 1382 1637; x_wconf 74' lang='lat' dir='ltr'>SECONDO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 753 1834 944 1856">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 753 1834 944 1856">
+     <span class='ocr_line' id='line_1_5' title="bbox 753 1834 944 1856; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 753 1834 944 1856; x_wconf 80' lang='lat' dir='ltr'>EEEEEEEEE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 454 1910 1250 1979">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 454 1910 1250 1979">
+     <span class='ocr_line' id='line_1_6' title="bbox 454 1910 1250 1979; baseline -0.001 -18"><span class='ocrx_word' id='word_1_12' title='bbox 454 1914 919 1979; x_wconf 75' lang='lat' dir='ltr'><strong>ALESSANDRO</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 942 1910 1250 1965; x_wconf 77' lang='lat' dir='ltr'><strong>BRAcfflo</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
